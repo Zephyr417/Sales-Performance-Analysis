@@ -25,7 +25,7 @@ Since the August sales data lacked region details, the region value from the emp
 
 # Analysis
 
-## 1. How is total sales revenue and paying customers trending month-over-month
+## 1. How is total sales revenue and paying customers trending
 
 
 To analyze the month-over-month trend of total sales revenue and paying customers, both metrics were aggregated by region, and the month-over-month growth rates were calculated. A donut chart was then created to visualize the comparison, providing a clear overview of the overall sales performance.
