@@ -32,8 +32,8 @@ To analyze the month-over-month trend of total sales revenue and paying customer
 
 ### Results
 
-![Visualization of sales revenue and paying customers](Project/Images/SkillDemand.png)
-![Visualization of sales revenue and paying customers](Project/Images/SkillDemand.png)
+![total sales revenue](Images/salesamount.png)
+![total paying customers](Images/payingcustomer.png)
 
 ### Insights
 - East China contributes the largest share of total sales and revenue at approximately 57%, followed by South China at around 24%, while Northwest China contributes the least at about 18%.
@@ -45,7 +45,6 @@ To analyze the month-over-month trend of total sales revenue and paying customer
 After removing all null values, the Average Order Value (AOV) was calculated by dividing total revenue by the number of paying customers. Analyzing Average Order Value (AOV) helps evaluate customer purchasing behavior and revenue efficiency.
 
 ### Results
-![Trending top Skills for Data Analysts in the US](Project/Images/Skill_Trend_DA.png)
 
 ### Insights:
 - The analysis shows that the average order value has been steadily decreasing over the months.
