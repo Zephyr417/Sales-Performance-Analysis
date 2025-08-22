@@ -1,9 +1,8 @@
-# Overview
-This project analyzes and monitors the monthly sales performance of a sample company using Tableau. It aims to provide a interactive dashboard which enables business stakeholders to track KPIs, identify trends, and uncover insights for better decision-making. This README file shows the data visualizations for June as an example. The full data for all months can be explored via the dashboard link below.
-
 # Live Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/ziang.liu5667/viz/salestransactiondata/MonthlySalesDataMonitoring)
 
+# Overview
+This project analyzes and monitors the monthly sales performance of a sample company using Tableau. It aims to provide a interactive dashboard which enables business stakeholders to track KPIs, identify trends, and uncover insights for better decision-making. This README file shows the data visualizations for June as an example. The full data for all months can be explored via the dashboard link above.
 
 # Questions
 Below are the questions I want to answer:
