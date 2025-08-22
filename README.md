@@ -90,20 +90,30 @@ The sales amount, number of paying customers, average order value (AOV), and the
 
 # Insights
 
-This project provided several insights into the data job market for analysts:
+This project provided several insights into the company's sales performance:
 
-- Core skills like SQL, Python, and Excel remain highly in demand, especially for Data Analysts, Data Scientists, and Data Engineers. However, specialized tools such as Hugging Face, Bitbucket, and mxnet command higher salaries despite being less frequently requested.
+- The company shows steady month-over-month growth in both total sales and revenue.
+- East China contributes the largest share (~57%) of total sales and revenue, followed by South China (~24%), while Northwest China lags behind (~18%).
+- Despite overall growth, the average order value (AOV) has been steadily decreasing over the months.
+- Installment plans significantly influence purchasing behavior, with 6-, 12-, and 18-month plans generating higher AOVs compared to shorter plans (1, 3, 9 months).
+- Among all installment options, the 12-month plan achieves the highest sales amount and the highest AOV overall.
+- Longer installment plans (6, 12, 18 months) also contribute the most to total sales due to higher customer uptake and spending.
+  
+# Business Recommendations
+- **Capitalize on East China’s dominance**  
+  - Strengthen marketing and promotions to sustain growth in East China.  
+  - Use the successful strategies from East China as a reference to improve performance in other regions.
 
-- Visualization shows that Python consistently offers one of the highest median salaries, while SQL remains the most demanded skill overall. Tableau and Power BI strike a strong balance between demand and compensation, making them valuable tools for aspiring analysts.
+- **Improve Sales in Low-Performing Regions**  
+  - Investigate why sales are lower in Northwest China (e.g., pricing, competition, distribution).  
+  - Consider targeted promotions, discounts or localized marketing campaigns to boost demand.
 
-- Senior roles, especially in Data Science and Engineering, show significantly higher and more variable salary ranges, indicating greater value and reward for expertise and experience.
+- **Address the decline in Average Order Value (AOV)**  
+  - Introduce bundled offers, loyalty rewards, or discounts on higher-value items to encourage larger purchases.  
+  - Analyze customer segments to understand why spending per order is decreasing.  
 
-- Ultimately, the most optimal skillset for a data analyst includes a mix of high-demand foundational tools and high-paying niche skills. Staying current with market trends and diversifying technical competencies is key to increasing employability and maximizing salary potential.
+- **Promote Longer Installment Plans**  
+  - Experiment with exclusive incentives (e.g., cashback or fee waivers) for customers choosing longer installment plans. 
+  - Highlight the 12-month plan specifically since it delivers the best overall performance.
 
-# What I Learned From This Project
-- The importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
-- How to perform data analysis using Python.
-- Data cleaning and filtering is so important before analyzing anything. It could remove all the unnecessary and wrong data to make the analysis more reliable.
-- Visualization is the last but most important step to show your results. The axis, color, title, theme etc, they all reflect how you express your insights.
-- Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
-- How to balance the overview of the landscape while diving into each analysis.
+
