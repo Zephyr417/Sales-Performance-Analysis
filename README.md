@@ -32,8 +32,8 @@ To analyze the month-over-month trend of total sales revenue and paying customer
 
 ### Results
 
-![total sales revenue](Images/salesamount.png)
-![total paying customers](Images/payingcustomer.png)
+![total sales revenue](Images/sales_amount.png)
+![total paying customers](Images/paying_customer.png)
 
 ### Insights
 - East China contributes the largest share of total sales and revenue at approximately 57%, followed by South China at around 24%, while Northwest China contributes the least at about 18%.
@@ -45,6 +45,7 @@ To analyze the month-over-month trend of total sales revenue and paying customer
 After removing all null values, the Average Order Value (AOV) was calculated by dividing total revenue by the number of paying customers. Analyzing Average Order Value (AOV) helps evaluate customer purchasing behavior and revenue efficiency.
 
 ### Results
+![Average Order Value](Images/average_order_value.png)
 
 ### Insights:
 - The analysis shows that the average order value has been steadily decreasing over the months.
@@ -55,7 +56,7 @@ After removing all null values, the Average Order Value (AOV) was calculated by 
 The Average Order Value (AOV) was aggregated by installment plan to analyze the impact of different payment options on customer purchasing behavior. This helps identify whether customers tend to spend more when choosing higher installment plans compared to paying in full.
 
 ### Results
-![Trending top Skills for Data Analysts in the US](Project/Images/Skill_Trend_DA.png)
+![Average Order Value By Installment](Images/aov_by_installment.png)
 
 ### Insights
 - Installment plans of 6, 12, and 18 months show significantly higher Average Order Value compared to 1, 3, and 9 months, with the 12-month installment plan resulting in the highest AOV overall.
@@ -65,8 +66,8 @@ The Average Order Value (AOV) was aggregated by installment plan to analyze the 
 The sales amount, number of paying customers, Average Order Value (AOV), and their respective month-over-month (MoM) changes were visualized using bar charts, aggregated by different regions. The sales amount was aggregated by region and visualized using a line chart to illustrate the trend.
 
 ### Results
-![The Highest Paid & Most Demanded Skills for Data Analysts](Project/Images/HighestPaid_MostDemandedSkills.png)
-![The Highest Paid & Most Demanded Skills for Data Analysts](Project/Images/HighestPaid_MostDemandedSkills.png)
+![Sales Detail By Province](Images/sales_detail_by_province.png)
+![Regional Sales Trend](Images/regional_sales_trend.png)
 
 ### Insights
 - The results show some rapid fluctuations, roughly following a 5-day cyclical pattern, but generally align with the insights mentioned above.
