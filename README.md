@@ -66,7 +66,7 @@ The Average Order Value (AOV) was aggregated by installment plan to analyze the 
 The sales amount, number of paying customers, Average Order Value (AOV), and their respective month-over-month (MoM) changes were visualized using bar charts, aggregated by different regions. The sales amount was aggregated by region and visualized using a line chart to illustrate the trend.
 
 ### Results
-![Sales Detail By Province](Images/sales_detail_by_province.png)
+![Sales Detail by Province](Images/sales_detail_by_province.png)
 ![Regional Sales Trend](Images/regional_sales_trend.png)
 
 ### Insights
@@ -80,8 +80,8 @@ The sales amount, number of paying customers, average order value (AOV), and the
 
 ### Results
 
-![Most optimal skills for Data Analysts](Project/Images/Optimal_Skill.png)
-![Most optimal skills for Data Analysts](Project/Images/Optimal_Skill.png)
+![Sales Detial by Installment](Images/sales_detail_by_installment.png)
+![Sales Trend by Installment](Images/sales_trend_by_installment.png)
 
 ### Insights
 - Installment plans of 6, 12, and 18 months contribute the most to total sales, with higher numbers of paying customers and AOV.
